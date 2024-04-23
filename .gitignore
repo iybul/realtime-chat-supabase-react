@@ -40,13 +40,14 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+package-lock*
 
-# TypeScript v1 declaration files
-typings/
+# /TypeScript v1 declaration files
+t/ypings/
 
-# TypeScript cache
-*.tsbuildinfo
-
+# TypeScript ca/che
+*.tsbuildinfo//
+/??????/???????????????????//
 # Optional npm cache directory
 .npm
 
